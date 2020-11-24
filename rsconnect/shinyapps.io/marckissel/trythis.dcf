@@ -1,0 +1,12 @@
+name: trythis
+title: trythis
+username:
+account: marckissel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3294260
+bundleId: 3899943
+url: https://marckissel.shinyapps.io/trythis/
+when: 1606228532.20434
+asMultiple: FALSE
+asStatic: FALSE
