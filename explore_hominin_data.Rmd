@@ -1,0 +1,29 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+```
+
+
+Things to do..
+1. link to my other database of CC and time periods?
+2. 
+
+
+```{r}
+hom <- read_csv("sampledata_mon.csv")
+```
+
+```{r}
+hom %>% count(discoverer, sort=T)
+```
+
+need to fix county
+

@@ -1,0 +1,21 @@
+---
+title: "ideas_for_app"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Ideas for app:
+
+look at
+https://gallery.shinyapps.io/117-shinythemes/
+
+for setting up the thing
+
+maps
+providers$Stamen.TonerLite
+providers$Stamen.Watercolor
+providers$CartoDB.PositronNoLabels
