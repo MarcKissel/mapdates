@@ -1,0 +1,41 @@
+---
+title: "note"
+format: html
+editor: visual
+---
+
+Current versions:
+
+2022-11-19-extra-data.csv
+"2022-11-19-map-data.csv"
+"2022-11-19-updates-** " <- in this one i have date range working better..
+
+
+TODO
+
+
+
+
+1. note issues with datasets.
+
+I probably should have 2022-11-19 be the main thingy and then bring in the other data i have from other sources?
+
+or...we keep this data and build out a database..so in this sense i'd have to give each site a key....that gets confusing but might be good in long term for Human Evo Class
+
+
+ANOTHER idea would be to have dataset as a google sheet that i connect to so that changes can be made anywhere rather than only when on laptop..
+
+
+IMPT: eventually the link for each find could go to a page we build for each fossil for Human Evolution\
+
+
+
+2. THings with the map
+- should it link to an article about the fossil?
+- get pics for each
+
+for this i need to have google drive folder with this info or a github..i need to figure out how to link to images on Google folder.... will need to have info on photo credits etc
+
+3. clean up the folder
+- more older shit to backup folder [done]
+- eventually make a new pristine folder wiht only stuff i need..that would also use github so can work from elsewhere
